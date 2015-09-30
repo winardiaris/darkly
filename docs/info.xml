@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+	<name>darkly</name>
+	<alias>Theme darkly</alias>
+	<description>Playsms-theme with Superhero bootstrap from https://bootswatch.com/</description>
+	<release>0.2</release>
+	<date>2015-09-22</date>
+	<author>winardiaris</author>
+	<language_file>1</language_file>
+	<sql_file>0</sql_file>
+	<php_file>1</php_file>
+</plugin>
